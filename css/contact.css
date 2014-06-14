@@ -1,0 +1,22 @@
+.member{
+margin-left: 10px;
+width: 310px;
+height: 200px;
+float: left;
+}
+
+.fa-info{
+    padding-right: 8px;
+}
+
+.fa-user{
+    padding-right: 2px;
+}
+
+.fa-phone{
+    padding-right: 2px;
+}
+
+#members{
+    height:210px;
+}

@@ -1,0 +1,19 @@
+.well{
+    clear: both;
+    font-size: 17px;
+}
+
+#collapseOne,#collapseTwo,#collapseThree{
+    font-family: 'Vollkorn', serif;
+    font-size: 17px;
+}
+
+.wellp{
+    border-radius: 5px;
+    background-color: #d4d4d4;
+    box-shadow: 2px 2px 5px black;
+}
+
+.list-group li{
+    list-style: none;
+}
